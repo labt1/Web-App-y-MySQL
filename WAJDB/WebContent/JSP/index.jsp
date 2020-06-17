@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Ecodeup</title>
+<title>Web App Java y Base de Datos</title>
 </head>
 <body>
 	<h1>Administrar Artículos</h1>
